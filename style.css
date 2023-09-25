@@ -5,3 +5,12 @@
   border-color: black;
   margin: auto;
 }
+
+.cart1 {
+  height: 200px;
+  width: 100px;
+}
+
+.cart1__text {
+  font-size: large;
+}
